@@ -1,2 +1,2 @@
 # transparent_pygame
-Makes pygame transparent
+Makes pygame window transparent
